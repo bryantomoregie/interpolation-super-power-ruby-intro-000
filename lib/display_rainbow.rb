@@ -1,3 +1,3 @@
-def display_rainbow
-  puts "R:#{display_rainbow[0]}, #{display_rainbow[1]}, #{display_rainbow[2]}, #{display_rainbow[3]}, #{display_rainbow[4]}, #{display_rainbow[5]}, #{display_rainbow[6]}"# Write your #display_rainbow method here
+def display_rainbow(array)
+  puts "R:#{array[0]}, #{array[1]}, #{array[2]}, #{array[3]}, #{array[4]}, #{array[5]}, #{array[6]}"# Write your #display_rainbow method here
 end
